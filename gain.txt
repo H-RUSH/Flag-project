@@ -1,1 +1,2 @@
 I have come to know that git ignore prevent that from phssoing into git watch this 
+sinche this is now in my git ignore so it will not come to the git 
